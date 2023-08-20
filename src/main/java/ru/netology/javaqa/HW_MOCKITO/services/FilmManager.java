@@ -1,3 +1,4 @@
+package ru.netology.javaqa.HW_MOCKITO.services;
 public class FilmManager {
 
     private String[] films = new String[0];
